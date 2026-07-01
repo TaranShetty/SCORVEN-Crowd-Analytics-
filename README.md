@@ -152,7 +152,7 @@ plotly
 
 ## 👨‍💻 Authors
 
-**Taran Shetty**
+**Taran Shetty**,
 **Mayank Upadhyay**
 
 B.Tech – Artificial Intelligence & Machine Learning
