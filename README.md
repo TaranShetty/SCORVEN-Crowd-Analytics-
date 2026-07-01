@@ -41,7 +41,6 @@ SCORVEN-Crowd-Analytics/
 │
 └── Dash Board/
     │── Dashboard.py
-    │── test.png
     └── model/
 ```
 
