@@ -7,6 +7,7 @@ import tempfile
 from ultralytics import YOLO
 import plotly.express as px
 import plotly.graph_objects as go
+import os
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(page_title="Advanced Crowd Analytics", layout="wide")
@@ -15,7 +16,7 @@ st.title("🚀 AI Crowd Intelligence Dashboard")
 # ---------------- LOAD MODEL ----------------
 @st.cache_resource
 def load_model():
-    model_path = r"C:\Users\Taran Shetty\OneDrive\Attachments\Desktop\Dash Board\model\best.pt"
+    model_path = os.path.join("model", "best.pt")
     model = YOLO(model_path)
     model.to("cpu")
     return model
