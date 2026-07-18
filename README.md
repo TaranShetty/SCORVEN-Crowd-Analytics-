@@ -1,4 +1,4 @@
-# 🚀 SCORVEN – Smart Crowd Observation and Response Vehicle
+#  SCORVEN – Smart Crowd Observation and Response Vehicle
 
 An AI-powered crowd detection and analytics system built using **YOLO**, **Streamlit**, **OpenCV**, and **Plotly** for real-time crowd monitoring, people counting, and density analysis.
 
@@ -7,20 +7,20 @@ An AI-powered crowd detection and analytics system built using **YOLO**, **Strea
 
 SCORVEN (Smart Crowd Observation and Response Vehicle) is an intelligent computer vision application that detects and counts people in real time using a custom-trained YOLO model. The system provides an interactive Streamlit dashboard for monitoring crowd density, visualizing analytics, and supporting surveillance and public safety applications.
 
-## ✨ Features
+##  Features
 
-- 👥 Real-time crowd detection
-- 🎥 Webcam support
-- 📂 Video upload support
-- 📊 Live crowd count
-- 📈 Crowd trend analysis
+-  Real-time crowd detection
+-  Webcam support
+-  Video upload support
+-  Live crowd count
+-  Crowd trend analysis
 - 🟢 Low / 🟠 Moderate / 🔴 High density classification
-- 🥧 Interactive density distribution chart
-- ⚡ Interactive Streamlit dashboard
-- 💻 CPU compatible
+-  Interactive density distribution chart
+-  Interactive Streamlit dashboard
+-  CPU compatible
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -44,7 +44,7 @@ SCORVEN-Crowd-Analytics/
     └── model/
 ```
 
-## 📥 Model Download
+##  Model Download
 
 The trained YOLO model (`best.pt`) is **not included** in this repository because it exceeds GitHub's file size limit.
 
@@ -63,7 +63,7 @@ Dash Board/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Application
+##  Running the Application
 
 Navigate to the dashboard folder:
 
@@ -102,7 +102,7 @@ streamlit run Dashboard.py
 The Streamlit dashboard will open automatically in your default web browser.
 
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - Real-time people detection
 - Live crowd counting
@@ -113,7 +113,7 @@ The Streamlit dashboard will open automatically in your default web browser.
 - Webcam and uploaded video support
 
 
-## 🎯 Applications
+##  Applications
 
 - Smart Cities
 - Public Safety
@@ -126,7 +126,7 @@ The Streamlit dashboard will open automatically in your default web browser.
 - Disaster Response
 
 
-## 📦 Requirements
+##  Requirements
 
 ```
 streamlit
@@ -138,7 +138,7 @@ plotly
 ```
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Multi-camera support
 - Heatmap generation
@@ -150,7 +150,7 @@ plotly
 
 
 
-## 👨‍💻 Authors
+##  Authors
 
 **Taran Shetty**,
 **Mayank Upadhyay**
