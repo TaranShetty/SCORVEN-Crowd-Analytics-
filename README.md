@@ -3,7 +3,7 @@
 An AI-powered crowd detection and analytics system built using **YOLO**, **Streamlit**, **OpenCV**, and **Plotly** for real-time crowd monitoring, people counting, and density analysis.
 
 
-## 📖 Overview
+##  Overview
 
 SCORVEN (Smart Crowd Observation and Response Vehicle) is an intelligent computer vision application that detects and counts people in real time using a custom-trained YOLO model. The system provides an interactive Streamlit dashboard for monitoring crowd density, visualizing analytics, and supporting surveillance and public safety applications.
 
