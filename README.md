@@ -154,6 +154,8 @@ plotly
 
 **Taran Shetty**,
 **Mayank Upadhyay**
+**Rishikesh Saroj**
+**Tanmay Walunj**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
